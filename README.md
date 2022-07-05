@@ -36,14 +36,17 @@
 - WHEN I click on the Logout button
 - THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 
+## Screenshot of working application
+- ![Image of final page](./client/assets/images/screenshot-of-app.PNG)
+
 ## Link to Code
 - https://github.com/jamesbelk0/Books-For-Me
 
 ## Link to Deployed Site (Heroku)
-- https://jamesbelk0.github.io/React-Portfolio/
+- https://git.heroku.com/intense-fjord-29606.git
 
 ## Description
-- This is my portfolio using React! A few of my projects that are updated regularly to present a more complete snapshot into my skills and progress! Each project demonstrates an aspect of my full-stack development. 
+- A book search app that allows users to save and remove books to their online list! Think of this as your personal library right in the palm of your hand. 
 
 ## Contributor
 - James Belk
